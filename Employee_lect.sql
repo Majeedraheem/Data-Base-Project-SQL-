@@ -28,7 +28,7 @@ FROM
     #checking the employees who's name is denis ;
     select * from  employees where first_name ='denis';
     
-######operator and & or 
+###### Practise The operator and & or 
 #checking employees firsname is denis  and gender is male  ;
 SELECT 
     *
