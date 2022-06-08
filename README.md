@@ -1,4 +1,4 @@
-# Data-Base-Project-SQL-
+# SQL- Practising SQL 
 Created Employee Data base using MySql
 practice as mush possible queries to increase my skills By: 
 Relational databases,
